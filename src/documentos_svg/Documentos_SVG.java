@@ -128,7 +128,7 @@ public class Documentos_SVG {
             }
             
             // Recuperar todas las lineas            
-            NodeList linesListPolyline = doc.getElementsByTagName("path");
+            NodeList linesListPolyline = doc.getElementsByTagName("polyline");
 
             // Procesar cada linea, para mostrar atributos asociaddos
             for (int temp = 0; temp < linesListPolyline.getLength(); temp++) {
@@ -139,9 +139,9 @@ public class Documentos_SVG {
 
                     NamedNodeMap attribs = line.getAttributes();
 
-                    String d = attribs.getNamedItem("d").getNodeValue();
+                    String points = attribs.getNamedItem("points").getNodeValue();
 
-                    System.out.printf("polyline: (%s)\n", d);
+                    System.out.printf("polyline: (%s)\n", points);
                 }
             }
             

@@ -4,28 +4,24 @@
  <defs>
   <linearGradient id="svg_6" spreadMethod="pad" x1="0" x2="1" y1="0" y2="0">
    <stop offset="0" stop-color="#00ffff"/>
-   <stop offset="1" stop-color="#aaaaff" stop-opacity="0.996094"/>
+   <stop offset="1" stop-color="#aaaaff" stop-opacity="0.99609"/>
   </linearGradient>
   <linearGradient id="svg_9">
    <stop offset="0" stop-color="#cccccc"/>
    <stop offset="1" stop-color="#333333"/>
   </linearGradient>
-  <linearGradient id="svg_11" x1="0" x2="1" y1="0" y2="0">
-   <stop offset="0" stop-color="#00bf5f"/>
-   <stop offset="1" stop-color="#007f3f" stop-opacity="0.996094"/>
-  </linearGradient>
   <linearGradient id="svg_16" x1="0" x2="1" y1="0" y2="0">
-   <stop offset="0" stop-color="#333333" stop-opacity="0.996094"/>
-   <stop offset="1" stop-color="#cccccc" stop-opacity="0.996094"/>
+   <stop offset="0" stop-color="#333333" stop-opacity="0.99609"/>
+   <stop offset="1" stop-color="#cccccc" stop-opacity="0.99609"/>
   </linearGradient>
  </defs>
  <g class="layer">
   <title>Layer 1</title>
   <rect fill="url(#svg_6)" height="52" id="svg_1" stroke="#000000" stroke-width="5" width="121" x="93" y="42"/>
   <ellipse cx="232" cy="128.5" fill="url(#svg_9)" id="svg_7" rx="62" ry="31.5" stroke="#000000" stroke-width="5"/>
-  <text fill="#ff56aa" font-family="serif" font-size="26" font-style="normal" font-weight="bold" id="svg_18" stroke="#000000" stroke-width="0" style="cursor: move;" text-anchor="middle" x="150" xml:space="preserve" y="30">GuzmanMovil</text>
+  <text fill="#ff56aa" font-family="serif" font-size="26" font-style="normal" font-weight="bold" id="svg_18" stroke="#000000" stroke-width="0" text-anchor="middle" x="150" xml:space="preserve" y="30">GuzmanMovil</text>
   <line fill="none" id="svg_3" stroke="#000000" stroke-width="5" x1="59" x2="246" y1="40" y2="39"/>
-  <path d="m126.296533,75.068489c134,-60.167769 23,252.131603 23,252.131603l-23,-252.131603z" fill="url(#svg_11)" id="svg_4" stroke="#007f3f" stroke-width="5" transform="matrix(1 0 0 1 0 0) rotate(88.7748 159.379 197.285)"/>
-  <circle cx="79.000003" cy="139.000003" fill="url(#svg_16)" id="svg_13" r="46.703189" stroke="#000000" stroke-width="5"/>
+  <circle cx="79" cy="139" fill="url(#svg_16)" id="svg_13" r="46.70319" stroke="#000000" stroke-width="5"/>
+  <polyline id="svg_2" points="102.37940979003906,397.49462890625 180.42337036132812,191.79119873046875 180.42337036132812,328.92681884765625 414.55535888671875,123.223388671875 " transform="rotate(59.5747 258.467 260.359)"/>
  </g>
 </svg>
